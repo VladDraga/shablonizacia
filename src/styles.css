@@ -1,0 +1,64 @@
+h2,
+p {
+  font-family: cursive;
+  margin: 0;
+}
+
+.move {
+  background-image: url(https://cdn.create.vista.com/api/media/small/232755656/stock-photo-grey-shabby-wooden-material-black);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.container {
+  width: 1200px;
+  margin: 0 auto;
+  padding: 0 15px;
+  outline: 1px solid;
+}
+
+.move-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  outline: ;
+}
+
+.move-item {
+  flex-basis: calc((100% - 40px) / 3);
+  background-color: rgba(128, 128, 128, 0.147);
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.move-photo {
+  width: 100%;
+  max-width: 376px;
+  border-radius: 5px;
+  height: 530px;
+}
+
+.move-title {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+  color: gray;
+}
+
+.move-genre {
+  margin-bottom: 10px;
+  text-align: center;
+  font-size: 18px;
+  color: gray;
+}
+
+.move-description {
+  margin-bottom: 10px;
+  text-align: center;
+  font-size: 18px;
+  color: gray;
+}
