@@ -12,7 +12,7 @@ p {
 }
 
 .container {
-  width: 1200px;
+  width: 900px;
   margin: 0 auto;
   padding: 0 15px;
   outline: 1px solid;
@@ -25,7 +25,6 @@ p {
   display: flex;
   gap: 20px;
   flex-wrap: wrap;
-  outline: ;
 }
 
 .move-item {
@@ -36,17 +35,15 @@ p {
 }
 
 .move-photo {
-  width: 100%;
-  max-width: 376px;
-  border-radius: 5px;
-  height: 530px;
+  text-align: center;
+  color: rgba(255, 255, 255, 0.674);
 }
 
 .move-title {
   margin-top: 10px;
   margin-bottom: 10px;
   text-align: center;
-  color: gray;
+  color: white;
 }
 
 .move-genre {

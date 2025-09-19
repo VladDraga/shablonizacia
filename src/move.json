@@ -1,122 +1,20 @@
 [
   {
-    "photo": "https://www.kino-teatr.ru/movie/poster/25308/43868.jpg",
-    "title": "The Shawshank Redemption",
-    "genre": "Drama",
-    "description": "Історія ув'язненого Енді Дюфрейна, який знаходить надію і свободу у в'язниці Шоушенк."
+    "id": 1,
+    "name": "Laptop",
+    "price": 1500,
+    "description": "A high-performance laptop for all your needs."
   },
   {
-    "photo": "https://www.kino-teatr.ru/movie/poster/29792/122695.jpg",
-    "title": "The Godfather",
-    "genre": "Crime, Drama",
-    "description": "Сага про сім'ю мафіозі Корлеоне та їхню боротьбу за владу й виживання."
+    "id": 2,
+    "name": "Smartphone",
+    "price": 700,
+    "description": "A modern smartphone with an excellent camera."
   },
   {
-    "photo": "https://www.kino-teatr.ru/movie/poster/15906/44008.jpg",
-    "title": "The Dark Knight",
-    "genre": "Action, Crime, Drama",
-    "description": "Бетмен протистоїть Джокеру, який сіє хаос у Готемі."
-  },
-  {
-    "photo": "https://www.kino-teatr.ru/movie/poster/82436/42607.jpg",
-    "title": "Inception",
-    "genre": "Sci-Fi, Thriller",
-    "description": "Команда злодіїв проникає у сни, щоб викрасти або підкинути ідеї."
-  },
-  {
-    "photo": "https://static.tildacdn.com/tild3062-3635-4837-b639-633137626365/p15829_v_v13_aa.jpeg",
-    "title": "Forrest Gump",
-    "genre": "Drama, Romance",
-    "description": "Життя простодушного Форреста Гампа, який стає свідком великих подій ХХ століття."
-  },
-  {
-    "photo": "https://m.media-amazon.com/images/M/MV5BOTgyOGQ1NDItNGU3Ny00MjU3LTg2YWEtNmEyYjBiMjI1Y2M5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "title": "Fight Club",
-    "genre": "Drama",
-    "description": "Незнайомець вводить офісного працівника в світ підпільного бою."
-  },
-  {
-    "photo": "https://www.shutterstock.com/image-photo/napoliitaly-november-152024-movie-poster-260nw-2546155485.jpg",
-    "title": "Pulp Fiction",
-    "genre": "Crime, Drama",
-    "description": "Переплетені історії кілерів, гангстерів і звичайних людей у Лос-Анджелесі."
-  },
-  {
-    "photo": "https://upload.wikimedia.org/wikipedia/ru/9/9d/Matrix-DVD.jpg",
-    "title": "The Matrix",
-    "genre": "Sci-Fi, Action",
-    "description": "Хакер Нео дізнається, що реальність — це комп’ютерна симуляція."
-  },
-  {
-    "photo": "https://m.media-amazon.com/images/M/MV5BN2E5NzI2ZGMtY2VjNi00YTRjLWI1MDUtZGY5OWU1MWJjZjRjXkEyXkFqcGc@._V1_.jpg",
-    "title": "Goodfellas",
-    "genre": "Crime, Drama",
-    "description": "Історія підйому та падіння мафіозі Генрі Гілла та його друзів."
-  },
-  {
-    "photo": "https://upload.wikimedia.org/wikipedia/ru/archive/0/08/20060425181629%21The_Lord_of_the_Rings._The_Fellowship_of_the_Ring_%E2%80%94_movie.jpg",
-    "title": "The Lord of the Rings: The Fellowship of the Ring",
-    "genre": "Fantasy, Adventure",
-    "description": "Хоббіт Фродо вирушає з друзями, щоб знищити Кільце Всевладдя."
-  },
-  {
-    "photo": "https://www.kino-teatr.ru/movie/poster/26078/41423.jpg",
-    "title": "The Lord of the Rings: The Two Towers",
-    "genre": "Fantasy, Adventure",
-    "description": "Команда розділяється, але продовжує боротьбу проти Саурона."
-  },
-  {
-    "photo": "https://i.pinimg.com/564x/1a/49/7f/1a497fdb8d52cce17e37bb7f062c8603.jpg",
-    "title": "The Lord of the Rings: The Return of the King",
-    "genre": "Fantasy, Adventure",
-    "description": "Остання битва за Середзем’я та завершення шляху Фродо."
-  },
-  {
-    "photo": "https://www.kino-teatr.ru/movie/posters/big/2/4/155142.jpg",
-    "title": "Interstellar",
-    "genre": "Sci-Fi, Adventure",
-    "description": "Астронавти шукають новий дім для людства через космічний портал."
-  },
-  {
-    "photo": "https://upload.wikimedia.org/wikipedia/uk/f/fe/Gladiatorteaser.jpg",
-    "title": "Gladiator",
-    "genre": "Action, Drama",
-    "description": "Римський генерал стає гладіатором, щоб помститися імператору."
-  },
-  {
-    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG2B1OkC3gOJZVy3YWRbsbTIRjO3aq0eedTA&s",
-    "title": "Titanic",
-    "genre": "Romance, Drama",
-    "description": "Трагічна історія кохання Джека і Роуз на борту «Титаніка»."
-  },
-  {
-    "photo": "https://play-lh.googleusercontent.com/aRF81H2CYLjBSF3Ne1fVeJpeiD2wD7kBYjUa6b5taH3EgUmcikmyMcsNmoDsgqbR9IM=w240-h480-rw",
-    "title": "The Avengers",
-    "genre": "Action, Adventure",
-    "description": "Супергероїоб’єднуються, щоб врятувати світ від Локі."
-  },
-  {
-    "photo": "https://media.kg-portal.ru/movies/a/avatar/posters/avatar_20.jpg",
-    "title": "Avatar",
-    "genre": "Sci-Fi, Adventure",
-    "description": "Морський піхотинець на планеті Пандора розривається між двома світами."
-  },
-  {
-    "photo": "https://play-lh.googleusercontent.com/xidkNlOnTIufJay9Cwss2bya4laYLfvKq92xg24mZ8gNrWTOP1RPrSxlwdiOLOLalNyH9kr3gi-2k3N6hH0=w240-h480-rw",
-    "title": "The Lion King",
-    "genre": "Animation, Drama",
-    "description": "Левеня Сімба долає труднощі, щоб стати королем савани."
-  },
-  {
-    "photo": "https://m.media-amazon.com/images/S/pv-target-images/af58cf4613f9e35d7701715030888ae8ee202fe82c7690903220ff440abb1dc2.jpg",
-    "title": "Star Wars: Episode IV - A New Hope",
-    "genre": "Sci-Fi, Adventure",
-    "description": "Люк Скайвокер стає частиною боротьби проти Імперії."
-  },
-  {
-    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStt1s3_nzx_X2cyKzedkKhA3qefbJGjkt4lg&s",
-    "title": "Joker",
-    "genre": "Drama, Thriller",
-    "description": "Історія становлення Джокера — людини, яка стає символом анархії."
+    "id": 3,
+    "name": "Headphones",
+    "price": 200,
+    "description": "Noise-cancelling headphones for better focus."
   }
 ]
